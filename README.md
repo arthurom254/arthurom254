@@ -27,17 +27,5 @@ for more of my work check out **arthurom254.github.io**
 
 
 #  **GitHub Stats:**  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurom254&langs_count=9) <br/>
  
-
-
- <br/>
- 
-
-<!--
-**arthurom254/arthurom254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on web applications...
-- 🌱 I’m currently learning computer science...
-- 🤔 I’m looking for help with machine learning...
-- 📫 How to reach me: okumuarthur69@gmail.com...
---
